@@ -59,5 +59,9 @@ Running the Script
 Ensure you have your .env file set up with the required API keys.
 Run the script in your Python environment:
 
+## References
+For this assignment I used a lot of help for askBCS, class material, workgroup with fellow classmates, chat gpt for help with the read me file and Expert learning assistant.
+
 ## Conclusion
 This script provides a comprehensive approach to retrieving, processing, and merging movie review data from NYT and TMDB APIs, enabling further analysis and insights.
+
